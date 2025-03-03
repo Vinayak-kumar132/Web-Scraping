@@ -1,3 +1,8 @@
+//  Basic Scraping..
+//  This script Extract the data of Coronavirus cases and related data..
+
+
+
 import axios from "axios";
 import * as cheerio from "cheerio";
 import chalk from "chalk";
